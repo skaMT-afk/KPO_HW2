@@ -1,0 +1,3 @@
+Id,Type,BankAccountId,CategoryId,Amount,Date,Description
+3ab6ef7d-d6fc-4ba6-b88c-a2acfd4cca55,Expense,b70e208f-5fd5-4637-ba8c-d9d209e95d40,d8cc113e-6e49-4f9e-b014-397384fc08f8,850,2025-11-05 00:00:00Z,Капучино
+822b5327-1237-4ce4-8753-b5e3f8848505,Income,b70e208f-5fd5-4637-ba8c-d9d209e95d40,fa2353ac-2c43-4df7-84e7-121ebfa495d9,120000,2025-11-04 00:00:00Z,Октябрьская зарплата

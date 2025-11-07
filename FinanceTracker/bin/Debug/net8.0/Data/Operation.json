@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "822b5327-1237-4ce4-8753-b5e3f8848505",
+    "Type": 1,
+    "BankAccountId": "b70e208f-5fd5-4637-ba8c-d9d209e95d40",
+    "CategoryId": "fa2353ac-2c43-4df7-84e7-121ebfa495d9",
+    "Amount": 120000,
+    "Date": "2025-11-04T00:00:00+03:00",
+    "Description": "\u041E\u043A\u0442\u044F\u0431\u0440\u044C\u0441\u043A\u0430\u044F \u0437\u0430\u0440\u043F\u043B\u0430\u0442\u0430"
+  },
+  {
+    "Id": "3ab6ef7d-d6fc-4ba6-b88c-a2acfd4cca55",
+    "Type": 2,
+    "BankAccountId": "b70e208f-5fd5-4637-ba8c-d9d209e95d40",
+    "CategoryId": "d8cc113e-6e49-4f9e-b014-397384fc08f8",
+    "Amount": 850,
+    "Date": "2025-11-05T00:00:00+03:00",
+    "Description": "\u041A\u0430\u043F\u0443\u0447\u0438\u043D\u043E"
+  }
+]

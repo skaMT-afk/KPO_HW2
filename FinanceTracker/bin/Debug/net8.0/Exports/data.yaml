@@ -1,0 +1,26 @@
+accounts:
+- id: b70e208f-5fd5-4637-ba8c-d9d209e95d40
+  name: Основной счет
+  balance: 119150
+categories:
+- id: d8cc113e-6e49-4f9e-b014-397384fc08f8
+  name: Кафе
+  type: Expense
+- id: fa2353ac-2c43-4df7-84e7-121ebfa495d9
+  name: Зарплата
+  type: Income
+operations:
+- id: 3ab6ef7d-d6fc-4ba6-b88c-a2acfd4cca55
+  type: Expense
+  bankAccountId: b70e208f-5fd5-4637-ba8c-d9d209e95d40
+  categoryId: d8cc113e-6e49-4f9e-b014-397384fc08f8
+  amount: 850
+  date: 2025-11-05T00:00:00.0000000+03:00
+  description: Капучино
+- id: 822b5327-1237-4ce4-8753-b5e3f8848505
+  type: Income
+  bankAccountId: b70e208f-5fd5-4637-ba8c-d9d209e95d40
+  categoryId: fa2353ac-2c43-4df7-84e7-121ebfa495d9
+  amount: 120000
+  date: 2025-11-04T00:00:00.0000000+03:00
+  description: Октябрьская зарплата
